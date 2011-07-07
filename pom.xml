@@ -4,7 +4,7 @@
   <groupId>com.github.boris-de</groupId>
   <artifactId>eclipsecolors_for_netbeans</artifactId>
   <packaging>jar</packaging>
-  <version>0.1-SNAPSHOT</version>
+  <version>0.1</version>
   <name>Eclipse-Colors for Netbeans</name>
   <url>https://github.com/Boris-de/eclipsecolors_for_netbeans</url>
 
